@@ -2,3 +2,31 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+.mdl-ripple {
+  background: #000;
+  opacity: 0.001;
+}
+
+.mdl-layout__header-row {
+  justify-content: center;
+  padding: 0;
+}
+
+.mdl-layout__content {
+  padding-left: 15pt;
+  padding-right: 15pt;
+  padding-top: 15pt;
+}
+
+.page-content {
+  color: white;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 2rem;
+}
+
+body {
+  background-color: cornflowerblue;
+}
+.mdl-layout-title {
+  font-size: 2rem;
+}
